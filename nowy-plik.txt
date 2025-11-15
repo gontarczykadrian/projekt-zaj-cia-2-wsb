@@ -1,2 +1,6 @@
 nowa treść
+<<<<<<< HEAD
 inna nowa treść linijka 2
+=======
+dodatkowa treśc 2 linijka
+>>>>>>> ee8aaa16ff0cf7118d7d61a852401c484e5cd7a4

@@ -1,0 +1,43 @@
+Opis projektu:
+Aplikacja wspomagająca studentów (18–25 lat) w organizacji nauki i zadań. Rozwiązuje problem braku planowania, przeciążenia informacjami i trudności w śledzeniu postępów. Prosty, intuicyjny interfejs z podstawowymi narzędziami do planowania tygodnia, przypomnień i monitorowania postępów.
+
+Grupa docelowa:
+- Studenci 18–25 lat
+- Osoby chcące lepiej zarządzać czasem i priorytetami
+- Użytkownicy potrzebujący lekkiego narzędzia bez przeładowanych funkcji
+
+Główne funkcje:
+- Lista zadań (dodawanie, edycja, priorytety, tagi)
+- Kalendarz tygodniowy (przeciągnij-upuść zadania, bloki czasowe)
+- Przypomnienia i powiadomienia (push/email)
+- Podstawowe statystyki postępów (ukończone zadania, czas spędzony)
+- Kategorie i szablony zadań (np. wykład, projekt, nauka)
+- Synchronizacja prostych danych (lokalnie / opcjonalnie konto)
+
+Zawartość "inspiracje" (słowa, skojarzenia, pomysły):
+- Minimalizm, szybkość, skupienie
+- Pomodoro, bloki czasowe, rutyna
+- Widoczny postęp, proste nagrody
+- "Mniej, ale lepiej", checklisty, widżety
+- Integracja z kalendarzem uczelni (opcjonalna)
+- Tryb offline, niskie zużycie baterii
+
+Krótka lista elementów projektu:
+- UI: ekran główny (lista zadań), kalendarz tygodniowy, ekran statystyk, ustawienia
+- Backend: lokalne przechowywanie (JSON/SQLite), synchronizacja opcjonalna
+- Powiadomienia: harmonogram, przypomnienia o terminach
+- Testy: podstawowe testy funkcjonalne UI i zapisu danych
+
+Wstępne dane wejściowe:
+- Kategorie: Nauka, Projekty, Zadania domowe, Egzaminy, Spotkania
+- Priorytety: Niski, Średni, Wysoki, Krytyczny
+- Tagi: termin, przygotowanie, grupa, lab, praktyka
+- Funkcje: dodaj zadanie, edytuj, usuń, zaplanuj w kalendarzu, ustaw przypomnienie, oznacz jako wykonane
+- Szablony zadań: Przygotowanie do wykładu, Napisanie pracy, Powtórka do kolokwium
+
+Lista źródeł pomysłu:
+- Własna potrzeba lepszej organizacji nauki
+- Obserwacje znajomych i ich problemów z planowaniem
+- Rozmowy w grupach studyjnych i forach studenckich
+- Inspiracje z metod produktywności (Pomodoro, GTD)
+- Przykłady istniejących aplikacji do zadań i kalendarzy (uproszczenie funkcji)

@@ -1,0 +1,21 @@
++----------------------------------------------+
+| APLIKACJA: Organizator nauki i zadań         |
+| (dla studentów 18–25)                        |
++-----------+       |                          |
+| Student   |------>|   ( Lista zadań )         |
+| 18–25     |       |                           |
++-----------+       |   ( Kalendarz tygodniowy )|
+   \             |                              |
+\------------> ( Przypomnienia )                | 
+ |                                              |
+(połączenie) |   ( Statystyki postępów )        | 
+ |                                              |
+ +----------------------------------------------+
+
+Legenda:
+- Student: aktor korzystający z aplikacji
+- Use case'y (w owalach): podstawowe funkcje aplikacji
+  * Lista zadań — tworzenie, edycja, oznaczanie jako wykonane
+  * Kalendarz tygodniowy — planowanie bloków nauki i terminów
+  * Przypomnienia — powiadomienia o terminach i zadaniach
+  * Statystyki postępów — podstawowe metryki postępu nauki
